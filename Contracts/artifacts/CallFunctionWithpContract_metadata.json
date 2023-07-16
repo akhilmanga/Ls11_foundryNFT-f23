@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/CallAnything.sol": "CallFunctionWithpContract"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/CallAnything.sol": {
+			"keccak256": "0xf2eee78886d82a9e99be7d86a16fa22a7b824a90b40d86541ecd681e5a13f09b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://13ade4a45a0ce49f1fb82ce0c079820ad7586b763f583b0796a3b08fffcb8d3d",
+				"dweb:/ipfs/QmSCM6pAMu71ayLk36g24AixLh1mFkvhdznKZ67kkzjWy3"
+			]
+		}
+	},
+	"version": 1
+}
